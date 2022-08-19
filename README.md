@@ -1,2 +1,2 @@
 # odin-recipes
-Initialize repo
+this is my first html project
