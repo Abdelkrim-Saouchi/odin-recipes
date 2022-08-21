@@ -18,6 +18,16 @@ img {
     text-align: center;
 }
 
+h3 {
+    font-size: x-large;
+    font-weight: 800;
+    color: crimson;
+}
+
+ul, ol, p {
+    color:rgb(5, 59, 59);
+}
+
 /* index.html */
 
 .Main-list, .item {
