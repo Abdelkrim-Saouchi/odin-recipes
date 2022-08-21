@@ -4,13 +4,21 @@ body {
 }
 
 
-/* index.html */
+
 h1 {
     color: orange;
     font-size: xx-large;
     font-weight: 800;
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 400px;
+    text-align: center;
+}
+
+/* index.html */
 
 .Main-list, .item {
     font-size: large;
